@@ -1,0 +1,17 @@
+W:\Kakei_Private_Group\Kancolle_Assist_Elf\bin\Release\Kancolle_Assist_Elf.exe.config
+W:\Kakei_Private_Group\Kancolle_Assist_Elf\bin\Release\Kancolle_Assist_Elf.exe
+W:\Kakei_Private_Group\Kancolle_Assist_Elf\bin\Release\Kancolle_Assist_Elf.pdb
+W:\Kakei_Private_Group\Kancolle_Assist_Elf\bin\Release\Kancolle_Assist_Elf.xml
+W:\Kakei_Private_Group\Kancolle_Assist_Elf\bin\Release\KPL.dll
+W:\Kakei_Private_Group\Kancolle_Assist_Elf\bin\Release\KPL.pdb
+W:\Kakei_Private_Group\Kancolle_Assist_Elf\bin\Release\KPL.xml
+W:\Kakei_Private_Group\Kancolle_Assist_Elf\obj\Release\Kancolle_Assist_Elf.vbproj.AssemblyReference.cache
+W:\Kakei_Private_Group\Kancolle_Assist_Elf\obj\Release\Kancolle_Assist_Elf.KAE_main_form.resources
+W:\Kakei_Private_Group\Kancolle_Assist_Elf\obj\Release\Kancolle_Assist_Elf.KAE_ship_locked_form.resources
+W:\Kakei_Private_Group\Kancolle_Assist_Elf\obj\Release\Kancolle_Assist_Elf.Resources.resources
+W:\Kakei_Private_Group\Kancolle_Assist_Elf\obj\Release\Kancolle_Assist_Elf.vbproj.GenerateResource.cache
+W:\Kakei_Private_Group\Kancolle_Assist_Elf\obj\Release\Kancolle_Assist_Elf.vbproj.CoreCompileInputs.cache
+W:\Kakei_Private_Group\Kancolle_Assist_Elf\obj\Release\Kancolle_Assist_Elf.vbproj.CopyComplete
+W:\Kakei_Private_Group\Kancolle_Assist_Elf\obj\Release\Kancolle_Assist_Elf.exe
+W:\Kakei_Private_Group\Kancolle_Assist_Elf\obj\Release\Kancolle_Assist_Elf.xml
+W:\Kakei_Private_Group\Kancolle_Assist_Elf\obj\Release\Kancolle_Assist_Elf.pdb
